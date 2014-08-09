@@ -5,8 +5,8 @@ Description :
 ========================================
 
 Le fichier IHMgradient.jar est un fichier jar exécutable : il permet à l'utilisateur de
-charger une image et puis de choisir le type de filtrage gradient :(filtrage gradient horizontal, vertical et total)
-Le résultat sera affichée après le traitement : l'affichage et le traitement peuvent éventuellement prendre quelques secondes.
+charger une image et puis de choisir le type de filtrage gradient :(filtrage gradient horizontal, vertical et total).
+Le résultat sera affiché après le traitement : l'affichage et le traitement peuvent éventuellement prendre quelques secondes.
 Tout dépend de la taille de l'image que vous chargez ainsi que de la fréquence du processeur de votre ordinateur.
 
 Informations :
